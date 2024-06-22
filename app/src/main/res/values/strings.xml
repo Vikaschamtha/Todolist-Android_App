@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Easy Go</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username :</string>
+    <string name="password">Password :</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="login">Login</string>
+    <string name="signup">Create an account Sign Up</string>
+    <string name="signupor">------------------or Sign Up With------------------</string>
+    <string name="enteruser">    Enter email here</string>
+    <string name="enterpass">    Enter password here</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="easychat">Easychat</string>
+    <string name="profile">Profile</string>
+    <string name="all_rights_reserved_easygo">All rights reserved @EasyGO</string>
+    <string name="add_task">Add Task</string>
+    <string name="user">Username</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="setting">Setting</string>
+    <string name="add_task_list">Add Task</string>
+    <string name="add">Add</string>
+    <string name="task_name">Task Name</string>
+    <string name="task_date">Task Date</string>
+    <string name="task_description">Task Description</string>
+    <string name="task_time">Task Time</string>
+    <string name="search_here">Search here</string>
+    <string name="search">Search</string>
+    <string name="places_near_you">Places near you</string>
+    <string name="explore_place">-> Explore:</string>
+    <string name="gandhinagar">Gift city, Gandhinagar</string>
+    <string name="the_gift_city_is_internatinal_finance_tech_city_of_india">The Gift city is Internatinal Finance Tech city Of India...</string>
+    <string name="tell_me_about_gift_city">Tell me About Gift City!!!</string>
+    <string name="axardham_mahatma_mandir_gift_city">Axardham,Mahatma Mandir, Gift city,...</string>
+    <string name="suggest_best_places_in_gandhinagar">Suggest best places in Gandhinagar.</string>
+    <string name="todo">TODO</string>
+    <string name="google">google</string>
+    <string name="facebook">facebook</string>
+    <string name="twitter">twitter</string>
+    <string name="click_here_to_login">Click here to Login</string>
+    <string name="Easygo_Discription"> -> EasyGo is an advanced planning web application designed to streamline and simplify your daily life. Whether you\'re managing personal tasks or professional projects, EasyGo offers a comprehensive suite of features to enhance your planning and organization.
+                                      \n\n  1.Task Management
+                                      \n  2.Calendar Integration
+                                      \n  3.Cross-Platform Compatibility
+                                      \n  4.Analytics and Insights
+                                      \n  5.Smart Recommendations
+    \n\n -> In summary, EasyGo is the ultimate planning application that combines simplicity with powerful features. It empowers users to take control of their schedules, improve productivity, and achieve their goals, whether on a personal or professional level. " Say goodbye to disorganization and hello to a more efficient and organized life with EasyGo. ”</string>
+    <string name="welcome_to_easy_chatgpt_ntry_it_out_now">Welcome to Easychat Bot</string>
+    <string name="write_here">Write here</string>
+    <string name="message_send_button">message_send_button</string>
+
+
+</resources>
